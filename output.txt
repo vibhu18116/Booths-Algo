@@ -1,0 +1,11 @@
+Numbers: 1000 and 1000
+Multiplication result: 
+	Binary: 0011110100001001000000
+	Integer: 1000000
+Division result: 
+	Binary: 
+		Quotient 00000000001
+		Remainder 00000000000
+	Integer: 
+		Quotient 1
+		Remainder 0

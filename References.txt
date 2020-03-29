@@ -1,0 +1,2 @@
+For Multiplication: https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm
+https://www.youtube.com/watch?v=aY_jUcEBn9Y
